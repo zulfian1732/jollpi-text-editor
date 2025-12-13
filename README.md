@@ -1,6 +1,6 @@
 # Jollpi
 
-> Jollpi is also listed on [GitHub](https://github.com/zulfian1732/jollpi-text-editor), but the source code is hosted here on GitLab.    
+> The source code is hosted here on [GitLab](https://gitlab.com/zulfian1732/jollpi-text-editor).      
 
 **Jollpi** is a lightweight, simple, and reliable text editor, built with **Python 3**, **GTK4**, and **GtkSourceView 5**. This version is a modern rewrite of the original 2010 Python 2 + PyGTK Jollpi text editor - now refreshed for modern Linux distributions.
 
