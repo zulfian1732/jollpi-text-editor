@@ -57,8 +57,8 @@ Jollpi requires the following:
 Run the provided script on any Linux-based system:
     
 ```bash
-git clone https://gitlab.com/zulfian1732/jollpi-editor.git
-cd jollpi-editor
+git clone https://gitlab.com/zulfian1732/jollpi-text-editor.git
+cd jollpi-text-editor
 chmod +x install.sh
 ./install.sh
 ```
