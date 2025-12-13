@@ -10,7 +10,7 @@
 **3.0**     
 For detailed changes, see the [ChangeLog](ChangeLog).
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png)  
 
 ---
 
