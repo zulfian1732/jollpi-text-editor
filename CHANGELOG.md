@@ -27,5 +27,3 @@ Release notes:
 
 > Versions prior to 3.0 are legacy releases based on Python 2 and PyGTK.
 > Full historical releases remain available in the original repository.
-
----
