@@ -29,8 +29,3 @@ Release notes:
 > Full historical releases remain available in the original repository.
 
 ---
-
-## Copyright
-
-Copyright © 2010–2025
-**Zulfian** `<zulfian1732@gmail.com>`
