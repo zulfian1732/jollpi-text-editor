@@ -8,7 +8,7 @@
 
 ## 🚀 Version
 **3.0**     
-For detailed changes, see the [ChangeLog](ChangeLog).
+For detailed changes, see the [CHANGELOG](CHANGELOG.md).
 
 ![screenshot](screenshot.png)  
 
