@@ -2,6 +2,9 @@
 
 Release notes:
 
+## [3.0.5] - 2025-12-24
+- Metadata fixes for Flathub release
+
 ## [3.0.4] - 2025-12-23
 - Fix AppStream metainfo installation for Flatpak
 
