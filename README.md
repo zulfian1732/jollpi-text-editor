@@ -25,7 +25,7 @@ For detailed changes, see the [CHANGELOG](CHANGELOG.md).
 - Clean and modern GTK4 interface.
 - Syntax highlighting via GtkSourceView 5.
 - Multi-tab text editing.
-- Async operations on file opening.
+- Async operations on file opening  (cancellable support).
 - Mini map via GtkSourceMap.
 - Real-time file monitoring.
 - Find & Replace, Go to Line, and quick navigation.
