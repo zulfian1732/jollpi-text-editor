@@ -16,7 +16,7 @@ For detailed changes, see the [CHANGELOG](CHANGELOG.md).
 ![screenshot](screenshot1.png)  
 *Jollpi running via Flatpak, using generic GTK4 theme.*
 
-> Native installation adapts to your desktop theme, while Flatpak uses a bundled GTK4 theme. Flathub installation instructions will be provided once available.
+> Native installation adapts to your desktop theme, while Flatpak uses a bundled GTK4 theme.
 
 ---
 
@@ -35,7 +35,7 @@ For detailed changes, see the [CHANGELOG](CHANGELOG.md).
 - Printing support.
 - Accessible via command line:
   - Native installation: `jollpi`
-  - Flatpak: `flatpak run io.gitlab.zulfian1732.jollpi`
+  - Flatpak: `flatpak run io.gitlab.zulfian1732.jollpi-text-editor`
 - Can also be launched from the application menu or by right-clicking a file in the file manager.
     
 ---
@@ -62,8 +62,15 @@ Jollpi requires the following:
 
 There are two ways to install Jollpi on Linux:
   
+### 2. Flatpak (recommended)
+Jollpi is available on Flathub and works on all major Linux distributions.
+
+```bash
+flatpak install flathub io.gitlab.zulfian1732.jollpi-text-editor
+```
+
 ### 1. Native installation (via `install.sh`)
-This method installs Jollpi directly on your system, and the editor will follow your desktop environment's theme (e.g., GNOME, KDE).
+This installs Jollpi directly on your system and follows your desktop environment's theme.
      
 ```bash
 git clone https://gitlab.com/zulfian1732/jollpi-text-editor.git
@@ -71,17 +78,6 @@ cd jollpi-text-editor
 chmod +x install.sh
 ./install.sh
 ```
-
-### 2. Flatpak installation (from source)
-This method runs Jollpi in a Flatpak sandbox. The appearance uses a generic GTK4 theme, so colors may look slightly different from your system theme.
-
-```bash
-git clone https://gitlab.com/zulfian1732/jollpi-text-editor.git
-cd jollpi-text-editor
-flatpak-builder --install --user build-dir io.gitlab.zulfian1732.jollpi.json
-```
-
-> ⚠️ Once Jollpi is available on Flathub, the Flatpak installation instructions will be updated to use the official Flathub repository instead of building from source.
 
 ---
 
