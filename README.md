@@ -63,7 +63,7 @@ Jollpi requires the following:
 There are two ways to install Jollpi on Linux:
   
 ### 2. Flatpak (recommended)
-Jollpi is available on Flathub and works on all major Linux distributions.
+Jollpi is available on [Flathub](https://flathub.org/apps/io.gitlab.zulfian1732.jollpi-text-editor) and works on all major Linux distributions.
 
 ```bash
 flatpak install flathub io.gitlab.zulfian1732.jollpi-text-editor
