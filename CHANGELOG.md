@@ -2,6 +2,15 @@
 
 Release notes:
 
+## [3.0.7] - 2026-01-04
+- Updated application metadata to mention multi-window support
+
+## [3.0.6] - 2026-01-04
+- Updated metadata, including keywords and brand colors
+- Adjusted application icon to better match Flathub guidelines
+- Changed default font to Noto Sans Mono for improved Flatpak rendering
+- Optimized file loading: synchronous for files under 2&nbsp;MB, asynchronous for larger files
+
 ## [3.0.5] - 2025-12-24
 - Metadata fixes for Flathub release
 
