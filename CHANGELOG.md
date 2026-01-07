@@ -2,6 +2,9 @@
 
 Release notes:
 
+## [3.0.8] - 2026-01-07
+- AppStream metadata cleanup: categories and keywords moved to the desktop file
+
 ## [3.0.7] - 2026-01-04
 - Updated application metadata to mention multi-window support
 
