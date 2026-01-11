@@ -2,6 +2,10 @@
 
 Release notes:
 
+## [3.0.9] - 2026-01-11
+- Fixed UI freeze caused by rapid selection changes triggering excessive mark-set updates.
+- Make Home/End keys stop at indentation before jumping to column start.
+
 ## [3.0.8] - 2026-01-07
 - AppStream metadata cleanup: categories and keywords moved to the desktop file
 
