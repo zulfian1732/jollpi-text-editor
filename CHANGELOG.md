@@ -2,6 +2,13 @@
 
 Release notes:
 
+## [3.0.10] - 2026-05-23
+- Fixed memory leak when closing the last remaining tab.
+- Fixed stale GLib source ID warning when removing already-executed timeouts.
+- Auto-fill search entry with selected text on selection and when opening find bar.
+- Simplified navbar reference passing across window, notebook, and menu.
+- Fixed light/dark branding colors being swapped in metainfo.xml.
+
 ## [3.0.9] - 2026-01-11
 - Fixed UI freeze caused by rapid selection changes triggering excessive mark-set updates.
 - Make Home/End keys stop at indentation before jumping to column start.
